@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180" viewBox="0 0 760 180">
+  <rect width="760" height="180" rx="18" fill="#F8FAFC"/>
+  <g fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2">
+    <rect x="42" y="58" width="126" height="58" rx="12"/><rect x="198" y="58" width="126" height="58" rx="12"/>
+    <rect x="354" y="58" width="126" height="58" rx="12"/><rect x="510" y="58" width="126" height="58" rx="12"/>
+  </g>
+  <g fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="14" text-anchor="middle">
+    <text x="105" y="92">understand</text><text x="261" y="92">reproduce</text><text x="417" y="92">improve</text><text x="573" y="92">contribute</text>
+  </g>
+  <g stroke="#CBD5E1" stroke-width="2"><path d="M168 87 H198"/><path d="M324 87 H354"/><path d="M480 87 H510"/></g>
+  <path d="M105 132 H573" stroke="#2563EB" stroke-width="3" stroke-linecap="round" stroke-dasharray="14 468" stroke-dashoffset="480">
+    <animate attributeName="stroke-dashoffset" values="480;0;-480" dur="8s" repeatCount="indefinite"/>
+  </path>
+</svg>

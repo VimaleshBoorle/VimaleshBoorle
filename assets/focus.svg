@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150">
+  <rect width="760" height="150" rx="18" fill="#F8FAFC"/>
+  <path d="M90 75 H670" stroke="#CBD5E1" stroke-width="2"/>
+  <g fill="#FFFFFF" stroke="#0F172A" stroke-width="2">
+    <circle cx="90" cy="75" r="10"/><circle cx="210" cy="75" r="10"/><circle cx="330" cy="75" r="10"/>
+    <circle cx="450" cy="75" r="10"/><circle cx="570" cy="75" r="10"/><circle cx="670" cy="75" r="10"/>
+  </g>
+  <g fill="#475569" font-family="Inter, Arial, sans-serif" font-size="13" text-anchor="middle">
+    <text x="90" y="112">reasoning</text><text x="210" y="112">agents</text><text x="330" y="112">retrieval</text>
+    <text x="450" y="112">evaluation</text><text x="570" y="112">systems</text><text x="670" y="112">research</text>
+  </g>
+  <circle r="6" fill="#2563EB"><animateMotion dur="9s" repeatCount="indefinite" path="M90 75 H670"/></circle>
+</svg>

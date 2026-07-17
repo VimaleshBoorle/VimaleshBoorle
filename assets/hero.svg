@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Animated reasoning graph</title>
+  <desc id="desc">A minimal coordinate grid with a calm animated path moving through a reasoning graph.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E2E8F0" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="340" fill="#FFFFFF"/>
+  <rect x="100" y="28" width="1000" height="260" fill="url(#grid)" opacity="0.55"/>
+  <g stroke="#CBD5E1" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M245 171 L390 98 L535 144 L680 82 L825 143 L970 102"/>
+    <path d="M245 171 L390 228 L535 188 L680 250 L825 197 L970 238"/>
+    <path d="M390 98 L390 228"/><path d="M535 144 L535 188"/><path d="M680 82 L680 250"/><path d="M825 143 L825 197"/>
+    <path d="M390 98 L535 188"/><path d="M535 144 L680 250"/><path d="M680 82 L825 197"/>
+  </g>
+  <g fill="#FFFFFF" stroke="#0F172A" stroke-width="2">
+    <circle cx="245" cy="171" r="8"/><circle cx="390" cy="98" r="8"/><circle cx="390" cy="228" r="8"/>
+    <circle cx="535" cy="144" r="8"/><circle cx="535" cy="188" r="8"/><circle cx="680" cy="82" r="8"/>
+    <circle cx="680" cy="250" r="8"/><circle cx="825" cy="143" r="8"/><circle cx="825" cy="197" r="8"/>
+    <circle cx="970" cy="102" r="8"/><circle cx="970" cy="238" r="8"/>
+  </g>
+  <path id="reasoningPath" d="M245 171 L390 98 L535 144 L680 82 L825 143 L970 102" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="round" stroke-dasharray="18 520" stroke-dashoffset="540">
+    <animate attributeName="stroke-dashoffset" values="540;0;-540" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <circle r="7" fill="#2563EB" filter="url(#softGlow)">
+    <animateMotion dur="7s" repeatCount="indefinite" rotate="auto"><mpath href="#reasoningPath"/></animateMotion>
+  </circle>
+  <g font-family="Inter, Arial, sans-serif" fill="#64748B" font-size="13">
+    <text x="245" y="310" text-anchor="middle">observe</text><text x="390" y="310" text-anchor="middle">retrieve</text>
+    <text x="535" y="310" text-anchor="middle">reason</text><text x="680" y="310" text-anchor="middle">act</text>
+    <text x="825" y="310" text-anchor="middle">evaluate</text><text x="970" y="310" text-anchor="middle">improve</text>
+  </g>
+</svg>
