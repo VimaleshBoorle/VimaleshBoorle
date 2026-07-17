@@ -1,164 +1,83 @@
-<div align="center">
-
-<img src="./assets/hero.svg" width="100%" alt="Animated reasoning graph" />
-
-# Vimalesh Boorle
-
-### Building reliable AI systems.
-
-**Reasoning · Agents · Evaluation · Retrieval · Infrastructure**
-
-<sub>AI/ML Data Scientist</sub>
-
-<br />
-
-[LinkedIn](https://www.linkedin.com/) · [Email](mailto:vimalesh.boorle3@gmail.com)
-
-</div>
-
----
-
-## Current Focus
-
-I work at the intersection of data science and applied AI, with a focus on systems that are measurable, observable, and useful in production.
-
-- Agentic AI and tool-using systems
-- LLM evaluation and benchmarking
-- Retrieval, ranking, and context engineering
-- Model Context Protocol and AI integrations
-- Data science for AI products
-- Reliable AI infrastructure
-
 <p align="center">
-  <img src="./assets/focus.svg" width="760" alt="Animated AI systems focus diagram" />
+  <img src="./assets/hero.svg" alt="AI/ML Data Scientist — LLM Systems, Agentic AI, and Evaluation" width="100%" />
 </p>
 
----
-
-## Selected Systems
-
-| Project | Problem | Core Focus | Status |
-|---|---|---|---|
-| **Natural Language SQL** | Convert user intent into safe, verifiable analytical queries | Agents · Tool use · Evaluation | Building |
-| **RAG Evaluation Lab** | Measure retrieval and answer quality across datasets | Retrieval · Ranking · Benchmarking | Planned |
-| **Agent Memory System** | Preserve useful context without accumulating noise | Memory · Context · Reliability | Research |
-| **AI Analytics Assistant** | Turn business questions into reproducible analysis | Data Science · LLM Systems | Planned |
-| **Research Notes** | Document experiments, failures, and technical decisions | Applied Research · Writing | Ongoing |
-
-> Replace these entries with repository links as each project becomes public.
-
----
-
-## Open Source Direction
-
-I am building toward meaningful contributions in:
-
-- Model Context Protocol ecosystem
-- LlamaIndex
-- FastMCP
-- OpenAI Cookbook
-- DuckDB
-- LLM evaluation tooling
-
 <p align="center">
-  <img src="./assets/pipeline.svg" width="760" alt="Animated open source contribution pipeline" />
+  <a href="https://linkedin.com/in/vimalesh-boorle">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vimalesh.boorle3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vimalesh.boorle3%40gmail.com-0F1F3D?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vimaleshboorle&label=Profile%20views&color=2563EB&style=flat-square" alt="Profile views" />
 </p>
 
----
+## About
 
-## Research Notes
+I am an **AI/ML Data Scientist** working at the intersection of large language models, agentic systems, data science, retrieval, and evaluation.
 
-A public notebook for ideas, experiments, evaluations, and lessons learned.
+I focus on building AI systems that can reason over structured and unstructured data, use tools, retrieve evidence, and produce measurable outcomes. My work and open-source interests span reliable agents, LLM evaluation, retrieval systems, AI infrastructure, and applied research.
 
-```text
-research/
-└── 2026/
-    ├── agent-evaluation.md
-    ├── memory-systems.md
-    ├── retrieval-quality.md
-    ├── reasoning-workflows.md
-    └── reliable-ai-infrastructure.md
-```
+## Focus Areas
 
-Each note should answer:
+<table>
+  <tr>
+    <td width="14%" align="center"><b>◉ Agents</b><br><sub>Tool use, planning, memory, state, and human approval.</sub></td>
+    <td width="14%" align="center"><b>▱ LLM Systems</b><br><sub>Structured outputs, orchestration, context, and model workflows.</sub></td>
+    <td width="14%" align="center"><b>▥ Data Science</b><br><sub>Experimentation, statistics, ML, SQL, and decision systems.</sub></td>
+    <td width="14%" align="center"><b>◎ Evaluation</b><br><sub>Correctness, retrieval quality, safety, cost, and latency.</sub></td>
+    <td width="14%" align="center"><b>⌕ Retrieval</b><br><sub>RAG, semantic search, hybrid retrieval, and reranking.</sub></td>
+    <td width="15%" align="center"><b>◇ Infrastructure</b><br><sub>APIs, containers, observability, and scalable AI services.</sub></td>
+    <td width="15%" align="center"><b>✦ Research</b><br><sub>Agents, reasoning, memory, grounding, and reliability.</sub></td>
+  </tr>
+</table>
 
-1. What problem am I investigating?
-2. What did I test?
-3. How did I evaluate it?
-4. What failed?
-5. What changed in my understanding?
+## Open-Source Direction
 
----
+I contribute to projects related to:
 
-## Engineering Approach
+- Agent frameworks, tool integrations, and Model Context Protocol
+- LLM evaluation, tracing, observability, and benchmarking
+- RAG, retrieval infrastructure, data connectors, and vector search
+- Tests, documentation, reproducible examples, and bug fixes
 
-```text
-Problem
-  ↓
-Hypothesis
-  ↓
-Architecture
-  ↓
-Implementation
-  ↓
-Evaluation
-  ↓
-Iteration
-```
+## Selected Work
 
-I prefer systems that are:
+> Repositories, benchmarks, demos, and merged contributions will be featured here as they are published.
 
-- **Reliable** — failure modes are understood and handled
-- **Observable** — behavior can be inspected and measured
-- **Evaluated** — quality is tested instead of assumed
-- **Reproducible** — results can be repeated and explained
-- **Useful** — technical work connects to real user outcomes
+| Area | What the work demonstrates |
+|---|---|
+| **Reliable data agents** | Natural-language analysis, safe SQL execution, evidence-backed answers, and evaluation |
+| **Retrieval systems** | Hybrid search, reranking, citation grounding, and retrieval benchmarks |
+| **Agent evaluation** | Tool-selection accuracy, hallucination detection, latency, cost, and failure analysis |
+| **Enterprise AI infrastructure** | Controlled access to documents, databases, APIs, and organizational knowledge |
 
----
+## Technology
 
-## Toolbox
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-0F1F3D?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
-**Core**
+## GitHub Activity
 
-`Python` · `SQL` · `Statistics` · `Experimentation` · `Machine Learning`
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vimaleshboorle&show_icons=true&hide_border=true&title_color=0F1F3D&text_color=64748B&icon_color=2563EB&bg_color=00000000" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimaleshboorle&layout=compact&hide_border=true&title_color=0F1F3D&text_color=64748B&bg_color=00000000" alt="Most-used languages" />
+</p>
 
-**AI Systems**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimaleshboorle&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=0F1F3D" alt="GitHub contribution streak" />
+</p>
 
-`LLM APIs` · `Agent Workflows` · `RAG` · `Tool Calling` · `MCP` · `Evaluation`
-
-**Data**
-
-`Pandas` · `NumPy` · `Spark` · `Snowflake` · `Databricks` · `PostgreSQL`
-
-**Infrastructure**
-
-`FastAPI` · `Docker` · `GitHub Actions` · `AWS` · `Redis`
-
----
-
-## Current Build Plan
-
-```text
-01  Natural Language SQL agent
-02  Retrieval and RAG evaluation lab
-03  Agent evaluation framework
-04  MCP-based enterprise assistant
-05  Open-source contributions
-06  Public research notes
-```
-
----
-
-## Connect
-
-- **Email:** [vimalesh.boorle3@gmail.com](mailto:vimalesh.boorle3@gmail.com)
-- **LinkedIn:** Replace the placeholder link at the top with your actual profile
-- **Portfolio:** Coming later, using the same visual language
-
----
-
-<div align="center">
-
-<sub>Technology changes quickly. Systems thinking lasts.</sub>
-
-</div>
+<p align="center">
+  <sub>Reliable AI systems · measurable outcomes · open-source collaboration</sub>
+</p>
