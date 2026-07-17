@@ -1,29 +1,229 @@
 <h1 align="center">Hi 👋, I'm Vimalesh Boorle</h1>
-<h3 align="center">Data Analytics | Data Engineer | Machine Learning | GenAI</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimaleshboorle&label=Profile%20views&color=0e75b6&style=flat" alt="vimaleshboorle" /> </p>
 
-🏫 I’m currently studying Masters in **Information Systems** from **California State University Long Beach**
+<h3 align="center">
+Data Scientist building toward reliable AI agents, LLM systems, and intelligent data products
+</h3>
 
-📝 I regularly write articles on [https://medium.com/@vimalesh10d](https://medium.com/@vimalesh10d)
-
-💬 Ask me about **Data Analysis, Machine Learning, Data Engineering and GenAI**
-
-📫 How to reach me **vimalesh.boorle01@student.csulb.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vimalesh-boorle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimalesh-boorle" height="30" width="40" /></a>
-<a href="https://kaggle.com/vimaleshboorle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vimaleshboorle" height="30" width="40" /></a>
-<a href="https://medium.com/vimalesh10d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vimalesh10d" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/vimalesh-boorle">
+    <img src="https://img.shields.io/badge/LinkedIn-Vimalesh%20Boorle-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@vimalesh10d">
+    <img src="https://img.shields.io/badge/Medium-Articles-black?style=flat-square&logo=medium" alt="Medium" />
+  </a>
+  <a href="https://kaggle.com/vimaleshboorle">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vimaleshboorle&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimaleshboorle&show_icons=true&locale=en&layout=compact" alt="vimaleshboorle" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimaleshboorle&show_icons=true&locale=en" alt="vimaleshboorle" /></p>
+I am a data professional interested in building intelligent systems at the intersection of **data science, machine learning, large language models, and agentic AI**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimaleshboorle&" alt="vimaleshboorle" /></p>
+My long-term goal is to develop AI systems that can reason over organizational knowledge, work with structured and unstructured data, use tools safely, and produce measurable outcomes—not just impressive demonstrations.
 
+I am currently strengthening my expertise through:
+
+* Building end-to-end AI and data products
+* Studying LLM application architecture and agent design
+* Learning retrieval, tool calling, memory, evaluation, and observability
+* Contributing to open-source AI projects
+* Exploring problems that could grow into meaningful AI startups
+
+I am especially interested in roles and projects involving **Applied AI, AI Agents, LLM Evaluation, Machine Learning, Data Science, and AI Infrastructure**.
+
+---
+
+## Current Focus
+
+🧠 **Agentic AI**
+Designing agents that can plan, use tools, maintain state, recover from failures, and collaborate safely with people.
+
+🤖 **Large Language Model Applications**
+Working with structured outputs, tool calling, retrieval-augmented generation, prompt engineering, context management, and model evaluation.
+
+📊 **Data Science and Analytics**
+Using experimentation, statistical analysis, SQL, Python, machine learning, and visualization to solve product and business problems.
+
+🔍 **Reliable AI Systems**
+Studying hallucination reduction, retrieval quality, evaluation datasets, observability, cost, latency, guardrails, and human-in-the-loop workflows.
+
+🌐 **Open Source**
+Beginning to contribute to projects related to AI agents, LLM tooling, retrieval, evaluation, data infrastructure, and the Model Context Protocol.
+
+🚀 **AI Products and Startups**
+Exploring how agentic systems can improve enterprise knowledge, analytics, developer workflows, decision-making, and operational work.
+
+---
+
+## What I Am Building
+
+My portfolio is evolving around four connected areas:
+
+### 1. Reliable Data Analysis Agents
+
+AI agents that can understand business questions, inspect datasets, generate and validate SQL, create visualizations, and produce evidence-backed conclusions.
+
+### 2. Retrieval and Knowledge Systems
+
+Production-oriented RAG systems that combine semantic search, keyword retrieval, reranking, metadata filtering, and grounded citations.
+
+### 3. Agent Evaluation and Observability
+
+Tools for measuring agent accuracy, tool selection, retrieval quality, hallucinations, latency, cost, looping, and failure patterns.
+
+### 4. Enterprise Agent Infrastructure
+
+Secure systems that connect AI agents with organizational data, documents, APIs, databases, and developer tools through controlled interfaces.
+
+> Projects and open-source contributions will be added here as they are completed.
+
+---
+
+## Technical Interests
+
+### AI and Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/LLM%20Applications-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=flat-square" />
+</p>
+
+### Languages and Data
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
+
+### Data Engineering and Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+</p>
+
+### AI Engineering Skills in Progress
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Search-4B32C3?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agent%20Observability-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Safety-222222?style=flat-square" />
+</p>
+
+---
+
+## Open-Source Journey
+
+I am beginning my open-source journey by focusing on meaningful contributions rather than contribution counts.
+
+My target areas include:
+
+* AI-agent frameworks and tooling
+* Model Context Protocol servers and SDKs
+* LLM evaluation and observability
+* Retrieval and RAG infrastructure
+* Data connectors and integrations
+* Documentation, testing, bug fixes, and reproducible examples
+
+### Contribution Progress
+
+* [ ] Submit my first documentation or test improvement
+* [ ] Contribute a bug fix to an AI or data project
+* [ ] Build and publish an MCP server
+* [ ] Contribute a reusable integration
+* [ ] Become a recurring contributor to one project
+* [ ] Help another new contributor get started
+
+---
+
+## Learning in Public
+
+I write about what I learn, build, test, and discover.
+
+Topics I plan to cover include:
+
+* Building AI agents without hiding behind frameworks
+* How to evaluate whether an agent actually works
+* RAG retrieval experiments and failure analysis
+* Reliable natural-language-to-SQL systems
+* Agent memory, permissions, and security
+* Cost, quality, and latency trade-offs in LLM applications
+* Lessons from open-source contributions
+* Product opportunities in enterprise AI
+
+📝 Read my articles on [Medium](https://medium.com/@vimalesh10d).
+
+---
+
+## Career Direction
+
+I am working toward opportunities in:
+
+* Applied AI Engineering
+* AI and Machine Learning
+* Agent Engineering
+* Data Science
+* LLM Evaluation
+* AI Product Development
+* Machine Learning Platforms
+* AI Infrastructure and Developer Tools
+
+My long-term ambition is to help build high-impact AI systems at leading technology and AI research companies—or create a company around an important problem in intelligent software.
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/vimalesh-boorle">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@vimalesh10d">
+    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/vimaleshboorle">
+    <img src="https://img.shields.io/badge/Kaggle-View%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+📫 **Email:** [vimalesh.boorle01@student.csulb.edu](mailto:vimalesh.boorle01@student.csulb.edu)
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vimaleshboorle&show_icons=true&hide_border=true" alt="Vimalesh's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimaleshboorle&show_icons=true&hide_border=true&layout=compact" alt="Vimalesh's most-used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimaleshboorle&hide_border=true" alt="Vimalesh's GitHub contribution streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building the skills to create AI systems that are useful, measurable, reliable, and safe.</i>
+</p>
