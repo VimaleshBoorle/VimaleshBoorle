@@ -1,164 +1,32 @@
-<div align="center">
+<img src="./assets/banner.svg" width="100%" alt="Vimalesh Boorle, Data Scientist. A transaction graph in which a fraud ring of five accounts sharing one device is flagged." />
 
-<img src="./assets/hero.svg" width="100%" alt="Animated reasoning graph" />
+I build machine learning that catches fraud and attacks, and I study how to secure the AI agents that are starting to act, pay and talk to each other on our behalf.
 
-# Vimalesh Boorle
+### What I work on
 
-### Building reliable AI systems.
+**Fraud and identity.** Payment fraud, synthetic and stolen identities, account takeover and mule networks. Fraud is a network problem: rings share devices, addresses and cards, so I model transactions as graphs rather than flat rows, and I care about the parts that make it hard in production, like extreme class imbalance, labels that arrive weeks late and adversaries who adapt.
 
-**Reasoning · Agents · Evaluation · Retrieval · Infrastructure**
+**AI for cybersecurity.** Anomaly detection on logs and network behaviour, and LLM agents that help triage alerts without becoming a new attack surface.
 
-<sub>AI/ML Data Scientist</sub>
+**Agent-to-agent security.** Protocols like [A2A](https://a2a-protocol.org) and [MCP](https://modelcontextprotocol.io) define how agents find and call each other. They say little about who an agent really is, what it is allowed to do, or what happens when one agent passes a poisoned instruction to the next. That trust layer is the problem I'm most interested in.
 
-<br />
+<img src="./assets/agent-trust.svg" width="100%" alt="A message from Agent A passes identity, scope, delegation and injection checks in a trust layer and reaches Agent B, while a message from a spoofed agent is blocked." />
 
-[LinkedIn](https://www.linkedin.com/) · [Email](mailto:vimalesh.boorle3@gmail.com)
+### Toolkit
 
-</div>
+`Python` `SQL` `PyTorch` `scikit-learn` `XGBoost` `graph ML` `LLM APIs` `agent orchestration` `MCP` `A2A`
 
----
+### Questions I'm working on
 
-## Current Focus
+- Can a model flag a synthetic identity before its first fraudulent transaction, from how it is connected rather than what it has done?
+- When agents delegate to other agents, how do you prove the original user authorised the action at the end of the chain?
+- What does a fraud detector look like for agent traffic, where the "customer" is software and can retry a thousand times a second?
 
-I work at the intersection of data science and applied AI, with a focus on systems that are measurable, observable, and useful in production.
+### Research
 
-- Agentic AI and tool-using systems
-- LLM evaluation and benchmarking
-- Retrieval, ranking, and context engineering
-- Model Context Protocol and AI integrations
-- Data science for AI products
-- Reliable AI infrastructure
+Working toward a first paper on security for agent-to-agent systems. Experiments and write-ups will appear here as they're published.
 
-<p align="center">
-  <img src="./assets/focus.svg" width="760" alt="Animated AI systems focus diagram" />
-</p>
+### Get in touch
 
----
-
-## Selected Systems
-
-| Project | Problem | Core Focus | Status |
-|---|---|---|---|
-| **Natural Language SQL** | Convert user intent into safe, verifiable analytical queries | Agents · Tool use · Evaluation | Building |
-| **RAG Evaluation Lab** | Measure retrieval and answer quality across datasets | Retrieval · Ranking · Benchmarking | Planned |
-| **Agent Memory System** | Preserve useful context without accumulating noise | Memory · Context · Reliability | Research |
-| **AI Analytics Assistant** | Turn business questions into reproducible analysis | Data Science · LLM Systems | Planned |
-| **Research Notes** | Document experiments, failures, and technical decisions | Applied Research · Writing | Ongoing |
-
-> Replace these entries with repository links as each project becomes public.
-
----
-
-## Open Source Direction
-
-I am building toward meaningful contributions in:
-
-- Model Context Protocol ecosystem
-- LlamaIndex
-- FastMCP
-- OpenAI Cookbook
-- DuckDB
-- LLM evaluation tooling
-
-<p align="center">
-  <img src="./assets/pipeline.svg" width="760" alt="Animated open source contribution pipeline" />
-</p>
-
----
-
-## Research Notes
-
-A public notebook for ideas, experiments, evaluations, and lessons learned.
-
-```text
-research/
-└── 2026/
-    ├── agent-evaluation.md
-    ├── memory-systems.md
-    ├── retrieval-quality.md
-    ├── reasoning-workflows.md
-    └── reliable-ai-infrastructure.md
-```
-
-Each note should answer:
-
-1. What problem am I investigating?
-2. What did I test?
-3. How did I evaluate it?
-4. What failed?
-5. What changed in my understanding?
-
----
-
-## Engineering Approach
-
-```text
-Problem
-  ↓
-Hypothesis
-  ↓
-Architecture
-  ↓
-Implementation
-  ↓
-Evaluation
-  ↓
-Iteration
-```
-
-I prefer systems that are:
-
-- **Reliable** — failure modes are understood and handled
-- **Observable** — behavior can be inspected and measured
-- **Evaluated** — quality is tested instead of assumed
-- **Reproducible** — results can be repeated and explained
-- **Useful** — technical work connects to real user outcomes
-
----
-
-## Toolbox
-
-**Core**
-
-`Python` · `SQL` · `Statistics` · `Experimentation` · `Machine Learning`
-
-**AI Systems**
-
-`LLM APIs` · `Agent Workflows` · `RAG` · `Tool Calling` · `MCP` · `Evaluation`
-
-**Data**
-
-`Pandas` · `NumPy` · `Spark` · `Snowflake` · `Databricks` · `PostgreSQL`
-
-**Infrastructure**
-
-`FastAPI` · `Docker` · `GitHub Actions` · `AWS` · `Redis`
-
----
-
-## Current Build Plan
-
-```text
-01  Natural Language SQL agent
-02  Retrieval and RAG evaluation lab
-03  Agent evaluation framework
-04  MCP-based enterprise assistant
-05  Open-source contributions
-06  Public research notes
-```
-
----
-
-## Connect
-
-- **Email:** [vimalesh.boorle3@gmail.com](mailto:vimalesh.boorle3@gmail.com)
-- **LinkedIn:** Replace the placeholder link at the top with your actual profile
-- **Portfolio:** Coming later, using the same visual language
-
----
-
-<div align="center">
-
-<sub>Technology changes quickly. Systems thinking lasts.</sub>
-
-</div>
+Open to conversations about fraud ML, security ML and AI security roles and research.
+**vimalesh.boorle3@gmail.com**
