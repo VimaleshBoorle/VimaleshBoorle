@@ -1,8 +1,10 @@
 <img src="./assets/banner.svg" width="100%" alt="Vimalesh Boorle, Data Scientist. A transaction graph in which a fraud ring of five accounts sharing one device is flagged." />
 
-I build machine learning that catches fraud and attacks, and I study how to secure the AI agents that are starting to act, pay and talk to each other on our behalf.
+I build LLM and agentic AI systems and machine learning that catches fraud and attacks, and I study how to secure the AI agents that are starting to act, pay and talk to each other on our behalf.
 
 ### What I work on
+
+**LLM systems and agentic AI.** The foundation under everything else: LLM applications, retrieval-augmented generation (RAG), multi-agent orchestration with tool use, and evaluations that measure whether a system actually does its job, not just whether it sounds right.
 
 **Fraud and identity.** Payment fraud, synthetic and stolen identities, account takeover and mule networks. Fraud is a network problem: rings share devices, addresses and cards, so I model transactions as graphs rather than flat rows, and I care about the parts that make it hard in production, like extreme class imbalance, labels that arrive weeks late and adversaries who adapt.
 
@@ -14,7 +16,7 @@ I build machine learning that catches fraud and attacks, and I study how to secu
 
 ### Toolkit
 
-`Python` `SQL` `PyTorch` `scikit-learn` `XGBoost` `graph ML` `LLM APIs` `agent orchestration` `MCP` `A2A`
+`Python` `SQL` `PyTorch` `scikit-learn` `XGBoost` `graph ML` `LLMs` `RAG` `vector search` `agent orchestration` `LLM evals` `MCP` `A2A`
 
 ### Questions I'm working on
 
